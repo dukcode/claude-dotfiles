@@ -4,7 +4,6 @@
       "Read",
       "Glob",
       "Grep",
-
       "Bash(ls *)",
       "Bash(ls)",
       "Bash(pwd)",
@@ -13,7 +12,6 @@
       "Bash(date)",
       "Bash(tree *)",
       "Bash(wc *)",
-
       "Bash(git status*)",
       "Bash(git diff*)",
       "Bash(git log*)",
@@ -22,27 +20,24 @@
       "Bash(git remote*)",
       "Bash(git rev-parse*)",
       "Bash(git tag*)",
-
       "Bash(./gradlew *)",
       "Bash(gradle *)",
       "Bash(./mvnw *)",
       "Bash(mvn *)",
-
       "Bash(java -version*)",
       "Bash(kotlin -version*)",
-
       "Bash(docker ps*)",
       "Bash(docker logs*)",
       "Bash(docker compose ps*)",
-
       "Bash(lsof -i*)",
       "Bash(curl *)"
     ]
   },
-  "enabledPlugins": {},
-  "language": "Korean",
   "statusLine": {
     "type": "command",
     "command": "bash /Users/duke.yun/.config/claude/statusline.sh"
-  }
+  },
+  "enabledPlugins": {},
+  "extraKnownMarketplaces": {},
+  "language": "Korean"
 }
